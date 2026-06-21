@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment (keep .env.example tracked)
+.env
+.env.local
+.env.*.local
+
+# TypeScript / Vite cache
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/

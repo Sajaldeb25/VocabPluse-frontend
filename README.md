@@ -36,7 +36,7 @@ Open <http://localhost:5173>.
 | `npm run build` | Type-check and produce production build in `dist/` |
 | `npm run preview` | Preview the production build locally |
 
-## Configuration
+## Configuration (in .env file)
 
 | Variable | Purpose |
 |----------|---------|
